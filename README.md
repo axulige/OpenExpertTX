@@ -1,7 +1,7 @@
 OpenExpertTX
 ============
 
-RC Transmitter soft for ATMega328. Support Tiny/Orange modues.
+RC Transmitter soft for ATMega328. Support Flytron, Orange, Hawkeye, Expert, IZI LRS, ChipLRS modues.
 
 Russian manual for beginners: https://github.com/axulige/OpenBaychiTX/wiki
 
